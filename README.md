@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brakemone
 - 👀 I’m interested in data science and software development
 - 🌱 I’m currently pursuing Bsc.Computer Science @kabarak uni
-- 💞️ I’m looking to collaborate on anything really lol
+- 💞️ I’m looking to collaborate on anything really but game and web development
 - 📫 How to reach me ; Twitter @brakemone
                        Email @brakemone@gmail.com
 
